@@ -14,7 +14,7 @@ public class TestaVariaveis {
 		double salario;
 		salario = 200.20;
 		
-		System.out.println("Meu salario e de R$ " + salario);
+		System.out.println("Meu salario é de R$ " + salario);
 		
 		double divisao = 200.0 / 5.7;
 		// posso utilizar a declaração de variaveis dessa maneira
