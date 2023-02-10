@@ -17,13 +17,13 @@ public class testaCondicional {
 			System.out.println("Você tem mais de 18 anos");
 
 		} else {
-			
+
 			if (quantidadeDePessoas >= 2) {
-				System.out.println("Você é menor de idade mas está "
-						+ "acompanhado de duas ou mais pessoas, pode entrar");
+				System.out.println(
+						"Você é menor de idade mas está " + "acompanhado de duas ou mais pessoas, pode entrar");
 			} else {
-			
-			System.out.println("Você é menor de idade");
+
+				System.out.println("Você é menor de idade");
 
 			}
 		}
