@@ -11,9 +11,9 @@ public class testaCondicionais2 {
 		// automatica
 		
 		int idade = 18;
-		boolean quantidadeDePessoas = true;
+		boolean acompanhado = true;
 
-		if (idade >= 18 && quantidadeDePessoas) {
+		if (idade >= 18 && acompanhado) {
 			System.out.println("Você tem mais de 18 anos e "
 					+ "está acompanhado por adultos");		
 		} else {
