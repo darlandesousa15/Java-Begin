@@ -1,15 +1,11 @@
 package sintaxe_variaveis_e_fluxos;
 
-public class testaCondicionais2 {
-
+public class testaEscopo {
+	
 	public static void main(String[] args) {
-		// palavra main + control + espaço e confirma com enter para dar essa linha sem
-		// precisar digitar
 
 		System.out.println("testando condicionais");
-		// plavra sysout + control + espaço e confirma com enter para trazer essa linha
-		// automatica
-		
+
 		int idade = 18;
 		int quantidadeDePessoas = 3;
 		boolean acompanhado = quantidadeDePessoas >= 2;
@@ -21,5 +17,5 @@ public class testaCondicionais2 {
 				System.out.println("Você não pode entrar");
 		}
 	}
-}
 
+}
